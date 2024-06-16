@@ -8,7 +8,7 @@ header {
    
 }
 header img {
-    margin:30px;
+    margin:20px 15px 20px 15px;
 }
 h1{
     text-align: center;
@@ -22,11 +22,9 @@ h2{
 }
 
 main img {
-   
+    margin: 10px -10px 10px 40px;
     text-align: center;
-    margin:5px -10px 5px 40px
-    
-
+}
 
 
 footer{
@@ -45,6 +43,6 @@ a {
     text-decoration: none;
     border-radius: 10px;
     margin-bottom: 35px 0px 35px 0px ;
-    padding: 2px;}
+    padding: 2px;
     
 
