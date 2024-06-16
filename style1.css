@@ -25,7 +25,9 @@ main img {
     margin: 30px;
     text-align: center;
 }
-
+p img {
+    margin-left: 40px;
+}
 
 footer{
     background-color: #024C68;
